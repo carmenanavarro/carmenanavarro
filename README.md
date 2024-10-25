@@ -8,7 +8,7 @@
 
 - **Open Source Enthusiast:** I believe in the power of open-source software and collaborative projects.
 - 🌱 What I'm learning:
-- I'm currently honing my skills in Python, data analysis, and machine learning. 
+- I'm currently honing my skills in Python, R, Linux, data analysis, and machine learning. 
 - 📫 How to reach me:
 - I'm excited to connect with fellow AI enthusiasts, data scientists, and researchers. If you share similar interests or just want to chat feel free to reach out!
 - 👩‍💻 My Recent Projects:
